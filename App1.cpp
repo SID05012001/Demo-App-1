@@ -1,4 +1,5 @@
 #include <cpp_api/navigation_bridge.h>
+#include <iostream>
 
 Navigation nav;
 int main(int argc, char *argv[])
